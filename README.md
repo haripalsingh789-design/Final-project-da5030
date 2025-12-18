@@ -5,21 +5,21 @@ This repository contains my final project for the Intro Data Mining / Machine Le
 The goal of this project was to develop an end-to-end machine learning workflow, starting from data exploration and preprocessing to model training and evaluation. The emphasis is on reproducibility, proper model comparison, and interpretable results rather than only maximizing accuracy.
 
 ## Dataset
-•	Synthetic heart disease dataset
-•	~50,000 patient records
-•	Clinical and demographic features
-•	Binary outcome: presence or absence of heart disease
+- Synthetic heart disease dataset
+- ~50,000 patient records
+- Clinical and demographic features
+- Binary outcome: presence or absence of heart disease
 
 ## Methods
-•	Data cleaning and exploratory analysis
-•	Feature engineering, scaling, and PCA
-•	Models: Logistic Regression, Decision Tree, Random Forest, k-NN, and Ensemble methods
-•	Evaluation using accuracy, ROC/AUC, confusion matrices, and cross-validation
+- Data cleaning and exploratory analysis
+- Feature engineering, scaling, and PCA
+- Models: Logistic Regression, Decision Tree, Random Forest, k-NN, and Ensemble methods
+- Evaluation using accuracy, ROC/AUC, confusion matrices, and cross-validation
 
 ## Tools
-•	Language: R
-•	Environment: R Markdown
-•	Libraries: caret, ggplot2, dplyr, tidyverse
+- Language: R
+- Environment: R Markdown
+- Libraries: caret, ggplot2, dplyr, tidyverse
 
 ## Repository Structure
 ├── DeoraH.DA5030.Project.Rmd
