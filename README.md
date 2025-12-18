@@ -22,10 +22,13 @@ The goal of this project was to develop an end-to-end machine learning workflow,
 - Libraries: caret, ggplot2, dplyr, tidyverse
 
 ## Repository Structure
-- ├── DeoraH.DA5030.Project.Rmd
-- ├── DeoraH.DA5030.Project.html
-- ├── synthetic_heart_disease_dataset.csv
-- ├── README.md
+
+```text
+├── DeoraH.DA5030.Project.Rmd
+├── DeoraH.DA5030.Project.html
+├── synthetic_heart_disease_dataset.csv
+├── README.md
+```
 
 ## Notes
 This project demonstrates applied machine learning and data analysis skills using a biomedical dataset, with a focus on clear documentation and reproducible workflows.
